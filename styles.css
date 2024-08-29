@@ -1,0 +1,110 @@
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+}
+
+/* Main container styling */
+#main {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Title styling */
+#title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+/* Image container styling */
+#img-div {
+    margin-bottom: 20px;
+}
+
+/* Image styling */
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Image caption styling */
+#img-caption {
+    font-style: italic;
+    color: #555;
+    margin-top: 10px;
+}
+
+/* Tribute info styling */
+#tribute-info {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+/* Life Journey section styling */
+#life-journey p {
+    text-align: left;
+    margin: 10px 0;
+}
+
+/* Achievements section styling */
+#achievements {
+    margin-bottom: 20px;
+}
+
+.achievement {
+    margin-bottom: 20px;
+}
+
+.achievement img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.achievement p {
+    font-style: italic;
+    margin-top: 5px;
+}
+
+/* Favorite Quote section styling */
+#quote blockquote {
+    font-style: italic;
+    border-left: 4px solid #007bff;
+    padding-left: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+/* Closing section styling */
+#closing {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+/* Tribute link styling */
+#tribute-link {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    color: #fff;
+    background-color: #007bff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+#tribute-link:hover {
+    background-color: #0056b3;
+}
+    
